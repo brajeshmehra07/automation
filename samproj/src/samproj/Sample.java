@@ -1,6 +1,6 @@
 package samproj;
 
-public class fgfgfg {
+public class Sample {
 	
 	
 	
